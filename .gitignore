@@ -34,6 +34,9 @@ yarn-error.log
 /example_dist
 /example
 
+#build
+/build
+
 # tests
 /test
 /benchmarks/memory
