@@ -35,7 +35,7 @@ yarn-error.log
 /example
 
 #build
-/build
+/dist
 
 # tests
 /test
